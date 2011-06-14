@@ -1,0 +1,7 @@
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\Bin\Debug\Wp7DemoLib.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\Bin\Debug\Wp7DemoLib.pdb
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\Bin\Debug\Applicable.WP7.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\Bin\Debug\Applicable.WP7.pdb
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\obj\Debug\Wp7DemoLib.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7DemoLib\obj\Debug\Wp7DemoLib.pdb

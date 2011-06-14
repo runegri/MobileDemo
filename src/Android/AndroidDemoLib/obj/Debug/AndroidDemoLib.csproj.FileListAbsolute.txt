@@ -1,0 +1,15 @@
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\AndroidDemoLib.dll
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\AndroidDemoLib.pdb
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\AndroidDemoLib.dll.mdb
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\AndroidDemoLib.AndroidDemoLib.apk
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\AndroidDemoLib.AndroidDemoLib-Signed.apk
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\Applicable.Android.dll
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\Applicable.Android.pdb
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\bin\Debug\Applicable.Android.dll.mdb
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\AndroidDemoLib.dll
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\AndroidDemoLib.pdb
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\android\bin\AndroidDemoLib.AndroidDemoLib.apk
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\R.cs.flag
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\debug.keystore
+D:\@SRC\MobileDemo\src\Android\AndroidDemoLib\obj\Debug\uploadflags.txt

@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="2B1869C8-94BA-4004-9BAD-1BEC1F59614E" ModuleId="Wp7Demo" />
+  <Module PersistentId="B31CE1C0-B736-493C-949E-4FF8269724B3" ModuleId="DemoLib" />
+  <Module PersistentId="05A0834B-9530-4684-B73B-DEE42B8B87D9" ModuleId="AndroidDemo" />
+  <Module PersistentId="D2A34412-8BE3-4B3B-8327-403AD83D6050" ModuleId="AndroidDemoLib" />
+  <Module PersistentId="Applicable.WP7, Version=1.0.0.0, Culture=neutral" ModuleId="Applicable.WP7" />
+  <Module PersistentId="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB" ModuleId="Wp7Demo_1" />
+  <Module PersistentId="D711B70F-44B0-43C6-AA4C-54C54E191DC5" ModuleId="Wp7DemoLib" />
+</Modules>

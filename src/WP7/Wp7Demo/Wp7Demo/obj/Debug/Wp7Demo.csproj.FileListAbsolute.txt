@@ -1,0 +1,17 @@
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\ApplicationIcon.png
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Background.png
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Wp7Demo.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Wp7Demo.pdb
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\AppManifest.xaml
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Wp7Demo.xap
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\App.g.i.cs
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\MainPage.g.i.cs
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\Wp7Demo.g.resources
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\Wp7Demo.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\Wp7Demo.pdb
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\obj\Debug\XapCacheFile.xml
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Applicable.WP7.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Applicable.WP7.pdb
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Wp7DemoLib.dll
+D:\@SRC\MobileDemo\src\WP7\Wp7Demo\Wp7Demo\Bin\Debug\Wp7DemoLib.pdb

@@ -1,0 +1,230 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Miscellaneous Files/f:TinyIoC.cs/l:D!?@SRC?Applicable?Src?Common?Tools?TinyIoC.cs" caret="136789" fromTop="19" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml" caret="1924" fromTop="18" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:DelegateCommand.cs" caret="719" fromTop="16" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml.cs" caret="676" fromTop="15" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:DebugLocationService.cs" caret="520" fromTop="13" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:App.xaml.cs" caret="5308" fromTop="14" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="130" fromTop="6" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:IDispatcher.cs" caret="106" fromTop="6" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Location.cs" caret="1029" fromTop="22" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2569" fromTop="30" />
+      <File id="D2A34412-8BE3-4B3B-8327-403AD83D6050/f:AndroidDispatcher.cs" caret="539" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="801" fromTop="21" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml" caret="2084" fromTop="21" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml" caret="1924" fromTop="21" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml.cs" caret="676" fromTop="22" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:DelegateCommand.cs" caret="981" fromTop="26" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:MainPage.xaml.cs" caret="722" fromTop="18" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="576" fromTop="17" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="36" fromTop="0" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="93" fromTop="4" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="361" fromTop="11" />
+      <File id="A86083F4-E63F-4840-98BC-F8EB7CF5C7EB/f:App.xaml.cs" caret="5608" fromTop="27" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2103" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2103" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2103" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2103" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="1096" fromTop="22" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:DebugLocationService.cs" caret="923" fromTop="26" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2571" fromTop="29" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="146" fromTop="7" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2543" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2571" fromTop="29" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="577" fromTop="24" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Wp7Dispatcher.cs" caret="360" fromTop="15" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:IDispatcher.cs" caret="106" fromTop="6" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2139" fromTop="15" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:Location.cs" caret="1060" fromTop="23" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="1773" fromTop="21" />
+      <File id="D711B70F-44B0-43C6-AA4C-54C54E191DC5/f:MainViewModel.cs" caret="2578" fromTop="30" />
+      <File id="D2A34412-8BE3-4B3B-8327-403AD83D6050/f:AndroidDispatcher.cs" caret="424" fromTop="15" />
+      <File id="D2A34412-8BE3-4B3B-8327-403AD83D6050/f:AndroidDispatcher.cs" caret="577" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="13" />
+      <Item value="ILocationService" priority="3" />
+      <Item value="_LocationService" priority="0" />
+      <Item value="private" priority="14" />
+      <Item value="void" priority="10" />
+      <Item value="_locationService" priority="4" />
+      <Item value="LocationData`0" priority="4" />
+      <Item value="locationData" priority="8" />
+      <Item value="bool" priority="3" />
+      <Item value="double" priority="2" />
+      <Item value="if" priority="8" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="TimeSpan`0" priority="1" />
+      <Item value="_latitude" priority="0" />
+      <Item value="_longtitude" priority="0" />
+      <Item value="_gotLocation" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Location" priority="4" />
+      <Item value="new" priority="9" />
+      <Item value="INotifyPropertyChanged" priority="0" />
+      <Item value="Void`0" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="pc" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="propertyName" priority="0" />
+      <Item value="ViewModelBase`0" priority="1" />
+      <Item value="RaisePropertyChanged`0" priority="1" />
+      <Item value="Location`0" priority="1" />
+      <Item value="HomeLocation" priority="1" />
+      <Item value="return" priority="4" />
+      <Item value="distance" priority="0" />
+      <Item value="null" priority="5" />
+      <Item value="PhoneApplicationPage`0" priority="0" />
+      <Item value="Loaded" priority="0" />
+      <Item value="DataContext" priority="2" />
+      <Item value="using" priority="0" />
+      <Item value="TinyIoC" priority="3" />
+      <Item value="TinyIoCContainer`0" priority="3" />
+      <Item value="container" priority="2" />
+      <Item value="Wp7LocationService`0" priority="1" />
+      <Item value="RowDefinition`0" priority="1" />
+      <Item value="OneWay" priority="0" />
+      <Item value="DebugLocationService`0" priority="0" />
+      <Item value="Timer" priority="3" />
+      <Item value="Timer`0" priority="1" />
+      <Item value="_timer" priority="4" />
+      <Item value="TimerCallback`0" priority="0" />
+      <Item value="object" priority="8" />
+      <Item value="UpdateLocation`0" priority="1" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="LocationChanged" priority="0" />
+      <Item value="locationChanged" priority="1" />
+      <Item value="_locationData" priority="5" />
+      <Item value="LocationData" priority="1" />
+      <Item value="DelegateCommand`0" priority="1" />
+      <Item value="Action`0" priority="3" />
+      <Item value="Func" priority="0" />
+      <Item value="executeMethod" priority="0" />
+      <Item value="_canExecuteMethod" priority="1" />
+      <Item value="parameter" priority="2" />
+      <Item value="_executeMethod" priority="0" />
+      <Item value="ICommand" priority="0" />
+      <Item value="Delegate`0" priority="0" />
+      <Item value="_gettingLocation" priority="2" />
+      <Item value="false" priority="0" />
+      <Item value="StartGetLocation`0" priority="0" />
+      <Item value="CanGetLocation`0" priority="0" />
+      <Item value="UpdateLocationCommand" priority="2" />
+      <Item value="CanExecuteChanged" priority="0" />
+      <Item value="canExecuteChanged" priority="1" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="MainViewModel`0" priority="1" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="CanExecute`0" priority="0" />
+      <Item value="Dispatcher`0" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="IDispatcher`0" priority="2" />
+      <Item value="_dispatcher" priority="2" />
+      <Item value="action" priority="2" />
+      <Item value="dispatcher" priority="0" />
+      <Item value="Wp7Dispatcher`0" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="IDispatcher" priority="0" />
+      <Item value="AndroidDispatcher`0" priority="0" />
+      <Item value="Android" priority="0" />
+      <Item value="Activity`0" priority="0" />
+      <Item value="activity" priority="0" />
+      <Item value="_activity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Applicable.Location.ILocationService">
+      <Item value="Start`0" priority="2" />
+      <Item value="LocationChanged" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Applicable.Location.LocationData">
+      <Item value="Timestamp" priority="0" />
+      <Item value="Latitude" priority="3" />
+      <Item value="Longtitude" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoLib.Location">
+      <Item value="DistanceTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TinyIoC.TinyIoCContainer">
+      <Item value="Current" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TinyIoC.TinyIoCContainer">
+      <Item value="Resolve`1" priority="1" />
+      <Item value="Register`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RowDefinition">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Change`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MaxValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Click" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoLib.MainViewModel">
+      <Item value="UpdateLocationCommand" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoLib.DelegateCommand">
+      <Item value="Execute`0" priority="1" />
+      <Item value="CanExecute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="RootVisual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.UIElement">
+      <Item value="Dispatcher" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="0" />
+      <Item value="CheckAccess`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DemoLib.IDispatcher">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Android.App.Activity">
+      <Item value="RunOnUiThread`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
