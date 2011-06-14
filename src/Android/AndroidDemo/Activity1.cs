@@ -45,11 +45,7 @@ namespace AndroidDemo
         {
             var container = Container;
             container.Register<Activity>(this);
-#if DEBUG
-            container.Register<ILocationService, DebugLocationService>();
-#else
-            container.Register<ILocationService, Wp7LocationService>();
-#endif
+            container.Register<ILocationService, AndroidLocationService>();
             container.Register<IDispatcher, AndroidDispatcher>();
         }
     }

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="AndroidDemo.AndroidDemo">
-  <application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="internalOnly" android:versionCode="1" android:versionName="1.0" package="AndroidDemo.AndroidDemo">
+  <application android:label="AndroidDemo">
     <activity android:icon="@drawable/icon" android:label="AndroidDemo" android:name="androiddemo.Activity1">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -16,5 +16,8 @@
     </receiver>
   </application>
   <uses-sdk android:minSdkVersion="8" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
   <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
